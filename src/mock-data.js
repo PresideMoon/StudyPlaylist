@@ -3,7 +3,7 @@ let mock = [{
     name: "Chill Hop",
     description: "Jazz mixed with hip-hop beats.",
     genre: "Jazz Hop",
-    link: "",
+    link: "https://www.youtube.com/embed/n5uz7egB9tA",
     image: "chillhop.jpg"
   },
   {
@@ -11,15 +11,15 @@ let mock = [{
     name: "Lo-fi Hiphop",
     description: "Relaxed low-tempo hip-hop beats.",
     genre: "Lo-fi",
-    link: "",
-    image: "lofi.jpg"
+    link: "https://www.youtube.com/embed/lTRiuFIWV54",
+    image: "logo.jpg"
   },
   {
     id: 3,
     name: "Jazz",
     description: "Marcus Roberts and the Modern Jazz Experience",
     genre: "Jazz",
-    link: "",
+    link: "https://youtube.com/embed/ggaQdHjpmy0",
     image: "MRTMJG.jpg"
   },
   {
@@ -27,7 +27,7 @@ let mock = [{
     name: "Ambience",
     description: "Raindrops and forests",
     genre: "Ambient sounds",
-    link: "",
+    link: "https://www.youtube.com/embed/sjkrrmBnpGE",
     image: "sacred.jpg"
   },
   {
@@ -35,7 +35,7 @@ let mock = [{
     name: "Classical",
     description: "Top Classical Pieces",
     genre: "Baroque Classical",
-    link: "",
+    link: "https://www.youtube.com/embed/jgpJVI3tDbY",
     image: "classical.jpg"
 
   },
@@ -44,7 +44,7 @@ let mock = [{
     name: "Piano Pop",
     description: "The Theorist's transposed pop pieces to piano. ",
     genre: "Pop",
-    link: "",
+    link: "https://www.youtube.com/embed/videoseries?list=PLD9284BFD59F6972B",
     image: "theorisdst.jpg"
   }
 ]

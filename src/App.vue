@@ -10,12 +10,11 @@
       <router-link to="/select">
         <div class="browse">
           <img src="../images/hp.jpg">
-          <p>Playlists</p>
         </div>
       </router-link>
     </div>
   </div>
-  <router-view />
+<router-view />
 </div>
 </template>
 <script>
@@ -25,6 +24,7 @@
 <style>
 * {
   box-sizing: border-box;
+
 }
 
 body {

@@ -6,7 +6,8 @@ Vue.config.productionTip = false
 import mock from './mock-data.js'
 
 let data = {
-  playlists: mock
+  playlists: mock,
+  current_playlist: ''
 }
 
 new Vue({
